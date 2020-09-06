@@ -1,5 +1,5 @@
 # Electronics Store api using Node.js
-The api built using Node.js and Express.js and MongoDB.
+The api built using Node.js and Express.js and MongoDB And Flutter for Frontend.
 
 The api not finish yet just The  Authentication functionality and CRUD Operation of the Product & Reviews models are implemented, all the routes are fully protected.
 
@@ -12,7 +12,8 @@ The Documentation was created with help of Postman check the documentation with 
 ## Main features
 
 - Searching was done using MongoDB Atlas Search(The $search Aggregation Pipeline Stage) for more info check the documentation with examples [here](https://docs.atlas.mongodb.com/reference/atlas-search/query-syntax/)
-- The concept of middleware was used heavily in this project.
+- The concept of middlewares was used heavily in this project.
+- The Frontend for this Api built with flutter, the code for it can be found [here](https://github.com/AsimZz/Electronics-Store)
 
 ## What left to implement??
 
