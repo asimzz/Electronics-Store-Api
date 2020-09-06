@@ -1,4 +1,4 @@
-# E-commerce api using Node.js
+# Electronics Store api using Node.js
 The api built using Node.js and Express.js and MongoDB.
 
 The api not finish yet just The  Authentication functionality and CRUD Operation of the Product & Reviews models are implemented, all the routes are fully protected.
