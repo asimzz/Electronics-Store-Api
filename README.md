@@ -10,19 +10,19 @@ The Data was collected manually from [Amazon]
 The Documentation was created with help of Postman check the documentation with examples [here](https://documenter.getpostman.com/view/11336818/TVCY6XZi)
 
 ## Main features
-
--- Searching was done using MongoDB Atlas Search(The $search Aggregation Pipeline Stage) for more info check the documentation with examples[here](https://docs.atlas.mongodb.com/reference/atlas-search/query-syntax/)
--- The concept of middleware was used heavily in this project.
-
+```
+- Searching was done using MongoDB Atlas Search(The $search Aggregation Pipeline Stage) for more info check the documentation with examples[here](https://docs.atlas.mongodb.com/reference/atlas-search/query-syntax/)
+- The concept of middleware was used heavily in this project.
+```
 ## What left to implement??
-
--- The CRUD Operation of Order,CartItems,Shipping models.
--- Forgot Password & sending verification emails functionalities.
--- Sending emails when the product delivered successfully.
--- Upload user photo.
+```
+- The CRUD Operation of Order,CartItems,Shipping models.
+- Forgot Password & sending verification emails functionalities.
+- Sending emails when the product delivered successfully.
+- Upload user photo.
 
 all these and more will implemented unitl the next commit.
-
+```
 ## Install Packages
 
 ```
