@@ -11,7 +11,7 @@ The Documentation was created with help of Postman check the documentation with 
 
 ## Main features
 
-- Searching was done using MongoDB Atlas Search(The $search Aggregation Pipeline Stage) for more info check the documentation with examples[here](https://docs.atlas.mongodb.com/reference/atlas-search/query-syntax/)
+- Searching was done using MongoDB Atlas Search(The $search Aggregation Pipeline Stage) for more info check the documentation with examples [here](https://docs.atlas.mongodb.com/reference/atlas-search/query-syntax/)
 - The concept of middleware was used heavily in this project.
 
 ## What left to implement??
