@@ -1,0 +1,29 @@
+{
+    "name": "electo_store_api",
+    "version": "1.0.0",
+    "description": "An Api for Electronics store",
+    "main": "server.js",
+    "scripts": {
+        "start": "NODE_ENV=production node server",
+        "dev": "nodemon server"
+    },
+    "author": "Asim Abdalla",
+    "license": "ISC",
+    "dependencies": {
+        "bcryptjs": "^2.4.3",
+        "colors": "^1.4.0",
+        "cookie-parser": "^1.4.5",
+        "crypto": "^1.0.1",
+        "dotenv": "^8.2.0",
+        "express": "^4.17.1",
+        "express-fileupload": "^1.2.0",
+        "express-mongo-sanitize": "^2.0.0",
+        "jsonwebtoken": "^8.5.1",
+        "mongoose": "^5.10.0",
+        "morgan": "^1.10.0",
+        "path": "^0.12.7"
+    },
+    "devDependencies": {
+        "nodemon": "^2.0.4"
+    }
+}
